@@ -1,0 +1,5 @@
+Log: [c01e9694-c5d3-4ce8-9736-a60e9d7ef517:2025-07-04T19:03:35.070468+0000 - ERROR - Request to / failed:  
+Log: [69126ab6-00d6-481f-8bf4-e00ee97e2310:2025-07-04T19:03:35.789865+0000 - WARNING - Request to /favicon.ico failed 
+Log: [c069e540-3a88-492d-adc0-257fc3ad160f:2025-07-04T19:03:43.685300+0000 - INFO - Successfully accessed /docs/ 
+Log: [ab8aad04-34ed-44b2-a4e7-65b01e6855c2:2025-07-04T19:03:43.726483+0000 - INFO - Successfully accessed /docs 
+Log: [1009bea5-3c03-4c67-aa86-e9cefe0afa9e:2025-07-04T19:03:44.123059+0000 - INFO - Successfully accessed /openapi.json 

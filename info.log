@@ -1,0 +1,16 @@
+Log: [d5c6510a-fa48-43ee-91a0-7c635290722c:2025-06-30T20:17:36.842822+0200 - INFO - Successfully accessed / 
+Log: [c12435de-6559-4f18-bfda-bed3f150041a:2025-06-30T20:17:41.089323+0200 - INFO - Successfully accessed /docs 
+Log: [26cec3e7-30bc-4ae5-b5a0-4bf8e9278770:2025-06-30T20:17:41.558224+0200 - INFO - Successfully accessed /openapi.json 
+Log: [dd9b5a6c-b5fb-4b49-8a6c-fbeadb5a56ff:2025-06-30T20:17:51.471662+0200 - INFO - Successfully accessed / 
+Log: [baec8768-7664-4c80-a1cb-080694544368:2025-06-30T20:18:35.159789+0200 - INFO - Successfully accessed /category/all_categories 
+Log: [7ac06abf-7106-40ae-942e-42d1fc21483d:2025-06-30T20:19:08.542087+0200 - WARNING - Request to /test failed 
+Log: [4055b5f6-2d96-4036-bc65-2c9e157c66ef:2025-06-30T20:20:11.947270+0200 - WARNING - Request to /welcome failed 
+Log: [74a672ff-81dc-4250-b93d-20d0746947ec:2025-06-30T20:20:20.827383+0200 - ERROR - Request to / failed:  
+Log: [f29d6ea9-c7c7-41ba-92a2-1179d3e07f0b:2025-07-07T15:38:51.144327+0200 - ERROR - Request to / failed:  
+Log: [d8f446ff-cedd-413f-b1f0-d1f68e2c1cfc:2025-07-07T15:38:51.943930+0200 - WARNING - Request to /favicon.ico failed 
+Log: [4b7ccdda-b033-49c3-b69a-e8ee11745e5d:2025-07-07T15:39:54.615118+0200 - INFO - Successfully accessed /docs/ 
+Log: [e9f0b67f-f946-451f-a1a8-f35aaa36ab54:2025-07-07T15:39:54.621131+0200 - INFO - Successfully accessed /docs 
+Log: [875cae1f-0413-4bed-b64e-2504d586baec:2025-07-07T15:39:54.937152+0200 - INFO - Successfully accessed /openapi.json 
+Log: [4c892966-f44d-4ee3-99e0-ed1faa727d38:2025-07-07T15:40:00.050071+0200 - INFO - Successfully accessed /category/all_categories 
+Log: [36462ecc-3591-483b-af62-c7a7313bdd31:2025-07-07T15:40:37.601174+0200 - WARNING - Request to /auth/token failed 
+Log: [b47d8091-4076-483b-a953-9a738d0d89b5:2025-07-07T15:40:51.246916+0200 - INFO - Successfully accessed /auth/token 

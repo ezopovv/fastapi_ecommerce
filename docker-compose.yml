@@ -1,0 +1,15 @@
+services:
+  web:
+    # Берем Dockerfile из каталога app
+    build: app
+    working_dir: /app/app
+    # Запускаем тестовый сервер
+    command: uvicorn main:app --host 0.0.0.0
+    # куда будут помещены данные из каталога app
+    volumes:
+      - .:/app
+    # Открываем порт 8000 внутри и снаружи
+    ports:
+      - 8000:8000
+    environment:
+          - PYTHONPATH=/app
